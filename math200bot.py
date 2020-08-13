@@ -3,7 +3,7 @@ from discord.ext.commands import bot
 from discord.ext import commands
 from discord.utils import get
 
-token = "NzM1NzU0MzM3NTE4NzQ3NjU5.Xxk2pg.A20eLQJre3_9-a-ZYYcY1qZ_HLg"
+token = "no no"
 
 bot = commands.Bot(command_prefix='.')
 
